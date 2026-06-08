@@ -1,0 +1,11 @@
+sessions/
+users/
+custom_roles.json
+chroma_db/
+*.pdf
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
