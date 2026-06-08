@@ -13,20 +13,11 @@
 ### 单人对话模式
 ![单人对话](images/single-chat.png)
 
-### 模型对比模式
-![模型对比](images/compare-mode.png)
-
 ### 群聊模式
-<!-- ![群聊](images/group-chat.png) -->
-
-### 角色选择与模型配置
-![侧边栏](images/sidebar.png)
+![群聊](images/sidebar.png)
 
 ### 社区广场
-<!-- ![社区](images/community.png) -->
-
-### Token 用量与导出
-<!-- ![Token](images/token-export.png) -->
+![社区](images/compare-mode.png)
 
 ---
 
@@ -149,21 +140,6 @@ ai-partner-platform/
 └── README.md
 ```
 
-## 📝 如何截取截图
-
-1. 运行 `streamlit run 02.ai_partner_02.py`
-2. 截取以下页面（存到 `images/` 目录）：
-
-| 文件名 | 截图内容 | 如何触发 |
-|--------|---------|---------|
-| `single-chat.png` | 单人对话界面 | 选一个角色，发一条消息，展示完整对话 |
-| `compare-mode.png` | 模型对比模式 | 侧边栏开启"🔬 模型对比"，发消息 |
-| `group-chat.png` | 群聊模式 | 侧边栏点击"进入群聊模式"，选2-3个角色 |
-| `sidebar.png` | 侧边栏全貌 | 展开全部区域，展示角色列表+模型选择+Token |
-| `community.png` | 社区广场 | 顶部点"社区"，展示帖子列表 |
-| `token-export.png` | Token统计+导出 | 侧边栏展开Token，显示导出按钮 |
-
----
 
 ## 📄 许可
 
