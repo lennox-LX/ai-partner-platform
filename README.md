@@ -17,16 +17,16 @@
 ![模型对比](images/compare-mode.png)
 
 ### 群聊模式
-![群聊](images/group-chat.png)
+<!-- ![群聊](images/group-chat.png) -->
 
 ### 角色选择与模型配置
 ![侧边栏](images/sidebar.png)
 
 ### 社区广场
-![社区](images/community.png)
+<!-- ![社区](images/community.png) -->
 
 ### Token 用量与导出
-![Token](images/token-export.png)
+<!-- ![Token](images/token-export.png) -->
 
 ---
 
